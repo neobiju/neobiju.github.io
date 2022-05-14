@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>holidays | Academic</title>
+    <link>https://example.com/tag/holidays/</link>
+      <atom:link href="https://example.com/tag/holidays/index.xml" rel="self" type="application/rss+xml" />
+    <description>holidays</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 04:05:12 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>holidays</title>
+      <link>https://example.com/tag/holidays/</link>
+    </image>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://example.com/post/lastweek/</link>
+      <pubDate>Sat, 14 May 2022 04:05:12 +0300</pubDate>
+      <guid>https://example.com/post/lastweek/</guid>
+      <description>&lt;h1 id=&#34;events&#34;&gt;Events&lt;/h1&gt;
+&lt;hr&gt;
+-  During the May holidays, I spent my time very interestingly. I walked a lot with my friends, went to the pool, read and did not sleep until the morning. I also did laboratory work on the subject &#34;Operating systems&#34;. 
+&lt;ul&gt;
+&lt;li&gt;I really wanted to go to my parents for the weekend, but unfortunately there were not so many weekends.&lt;/li&gt;
+&lt;li&gt;My last week was fun and interesting.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

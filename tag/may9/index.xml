@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>May9 | Academic</title>
+    <link>https://example.com/tag/may9/</link>
+      <atom:link href="https://example.com/tag/may9/index.xml" rel="self" type="application/rss+xml" />
+    <description>May9</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 20:17:37 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>May9</title>
+      <link>https://example.com/tag/may9/</link>
+    </image>
+    
+    <item>
+      <title>Week 09.05-15.05</title>
+      <link>https://example.com/post/week02/</link>
+      <pubDate>Sat, 21 May 2022 20:17:37 +0300</pubDate>
+      <guid>https://example.com/post/week02/</guid>
+      <description>&lt;h1 id=&#34;victory-day&#34;&gt;Victory Day&lt;/h1&gt;
+&lt;hr&gt;
+Last week we celebrated Victory Day. That day I went to watch the parade and fireworks.
+&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
+&lt;hr&gt;
+- Also last week my sister came to see me. We haven&#39;t seen each other for six months. So I was very glad that she came to me.
+</description>
+    </item>
+    
+  </channel>
+</rss>

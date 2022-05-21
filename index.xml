@@ -33,6 +33,34 @@
     </item>
     
     <item>
+      <title>Working with bibliography</title>
+      <link>https://example.com/post/bibliography/</link>
+      <pubDate>Sat, 21 May 2022 20:29:22 +0300</pubDate>
+      <guid>https://example.com/post/bibliography/</guid>
+      <description>&lt;h1 id=&#34;working-with-bibliography&#34;&gt;Working with bibliography&lt;/h1&gt;
+&lt;hr&gt;
+- The Word object model includes several objects designed to automate the creation of bibliographies. The following table lists the main objects of the Word Bibliography feature. 
+- Use these objects and additional properties and methods in the Word object model to add sources to source lists, reference sources in a document, and manage sources. 
+&lt;h1 id=&#34;understanding-the-xml-source&#34;&gt;Understanding the XML Source&lt;/h1&gt;
+&lt;hr&gt;
+- Sources are added to source lists programmatically using XML strings. Depending on the type of source to be added, the XML structure changes. To define the XML structure for a source type, you can manually add the same source type and then view the returned XML.</description>
+    </item>
+    
+    <item>
+      <title>Week 09.05-15.05</title>
+      <link>https://example.com/post/week02/</link>
+      <pubDate>Sat, 21 May 2022 20:17:37 +0300</pubDate>
+      <guid>https://example.com/post/week02/</guid>
+      <description>&lt;h1 id=&#34;victory-day&#34;&gt;Victory Day&lt;/h1&gt;
+&lt;hr&gt;
+Last week we celebrated Victory Day. That day I went to watch the parade and fireworks.
+&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
+&lt;hr&gt;
+- Also last week my sister came to see me. We haven&#39;t seen each other for six months. So I was very glad that she came to me.
+</description>
+    </item>
+    
+    <item>
       <title>Markdown</title>
       <link>https://example.com/post/markdown/</link>
       <pubDate>Sat, 14 May 2022 04:21:01 +0300</pubDate>

@@ -10,21 +10,27 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc></loc><lastmod>2022-05-21T20:29:22+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-05-21T20:29:22+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/</loc><lastmod>2022-05-21T20:29:22+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/bibliography/</loc><lastmod>2022-05-21T20:29:22+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/may9/</loc><lastmod>2022-05-21T20:17:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><lastmod>2022-05-21T20:17:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/week02/</loc><lastmod>2022-05-21T20:17:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tag/markdown/</loc><lastmod>2022-05-14T04:21:01+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/markdown/</loc><lastmod>2022-05-14T04:21:01+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-14T04:21:01+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-14T04:21:01+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-05-14T04:05:12+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/tag/holidays/</loc><lastmod>2022-05-14T04:05:12+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/lastweek/</loc><lastmod>2022-05-14T04:05:12+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-05-14T04:05:12+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/spring/</loc><lastmod>2022-05-14T04:05:12+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

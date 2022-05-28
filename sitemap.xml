@@ -10,9 +10,13 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-05-28T11:14:54+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-05-28T21:16:41+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-05-28T11:14:54+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/project/cryptography/</loc><lastmod>2022-05-28T21:16:41+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-05-28T21:16:41+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/</loc><lastmod>2022-05-28T21:16:41+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/</loc><lastmod>2022-05-28T11:14:54+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -63,8 +67,6 @@
     <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

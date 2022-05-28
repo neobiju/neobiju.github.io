@@ -33,6 +33,52 @@
     </item>
     
     <item>
+      <title>Programming language</title>
+      <link>https://example.com/post/programminglanguage/</link>
+      <pubDate>Sat, 28 May 2022 11:14:54 +0300</pubDate>
+      <guid>https://example.com/post/programminglanguage/</guid>
+      <description>&lt;h1 id=&#34;programming-language&#34;&gt;Programming Language&lt;/h1&gt;
+&lt;hr&gt;
+- A formalized language designed to describe programs and algorithms for solving problems on a computer. Programming languages ​​are artificial. In them, the syntax and semantics are strictly demanding. Therefore, they do not allow free interpretation of statements, which is typical for natural language. Programming languages ​​are changing into two main categories of high-level languages ​​and high-level language:
+- High-level language - A programming language whose means provide a description of the problem in a visual, easily perceived form, convenient for the programmer. It does not depend on the internal machine codes of any type of computer, so programs written in high-level languages ​​require translation into machine codes by translator or interpreter programs. High-level languages ​​include Fortran, PL / 1, BASIC, Pascal, C, Ada, etc.
+- Low-level language - A programming language designed for a particular type of computer and reflecting its internal machine code (see also “machine language”, “machine-oriented language” and “assembler language” below).
+&lt;h1 id=&#34;several-types-of-programming-languages&#34;&gt;Several types of programming languages&lt;/h1&gt;
+&lt;hr&gt;
+- Algorithmic language - A set of symbols, conventions and rules used to unambiguously describe algorithms and is usually part of a programming language;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Nonalgorithmic language - A programming language, the texts of which do not contain instructions on the order in which operations are performed and serve only as source material for the synthesis of an algorithm for solving a problem;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Source language - The programming language in which the program is written, as opposed to the machine language in which programs are executed by the computer. Source languages ​​are classified into high level languages ​​and low level languages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine (absolute) language, computer language - A programming language designed to represent programs in a form that makes it possible to execute them by technical means.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last Week 16.05-22.05</title>
+      <link>https://example.com/post/week03/</link>
+      <pubDate>Sat, 28 May 2022 11:04:21 +0300</pubDate>
+      <guid>https://example.com/post/week03/</guid>
+      <description>&lt;h1 id=&#34;developments&#34;&gt;Developments&lt;/h1&gt;
+&lt;hr&gt;
+- The past week has not been particularly remarkable. It was still chilly outside, even though it was almost summer outside. I spent most of my time sitting at home and watching TV shows. 
+&lt;h1 id=&#34;cat&#34;&gt;Cat&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;We have finally trimmed our Maine Coon cat. Now he has less wool by 80%. Perhaps this is the most important news.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;study&#34;&gt;Study&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;I also did laboratory work for my studies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Working with bibliography</title>
       <link>https://example.com/post/bibliography/</link>
       <pubDate>Sat, 21 May 2022 20:29:22 +0300</pubDate>

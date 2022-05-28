@@ -31,7 +31,7 @@ The main component of cryptography is encryption. Messages are encrypted and dec
 It is the simplest algorithm. Cryptographers often refer to it as a cryptographic secret key (SKC) or a shared key, since information is encrypted and decrypted using the same key. Symmetric encryption implies that the secret digital key must be known to both the recipient and the sender.
 &lt;h1 id=&#34;asymmetric-encryption&#34;&gt;Asymmetric encryption&lt;/h1&gt;
 &lt;hr&gt;
-This algorithm is widely used in the World Wide Web. It is also called Public Key Cryptography (PKC). The PKC algorithm uses two keys: public and private.
+This algorithm is widely used in the World Wide Web. It is also called Public Key Cryptography (PKC). The algorithm uses two keys: public and private.
 &lt;pre&gt;&lt;code&gt;Open may be known to many. It is impossible to decrypt data using it. For example, an email address is a public key.
 The private is secret, used to decrypt the message, never revealed to the other party. For example, the email account password is the key to opening emails.
 It doesn&#39;t matter which key is applied first, but both are needed to work.
